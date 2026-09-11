@@ -1,0 +1,13 @@
+Install the required Python packages:
+
+```bash
+pip install opencv-python mediapipe numpy
+```
+
+Or install them individually:
+
+```bash
+pip install opencv-python
+pip install mediapipe
+pip install numpy
+```
