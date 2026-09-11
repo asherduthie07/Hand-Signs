@@ -1,0 +1,3 @@
+Load your own custom frames inside this folder to be useable as an effect.
+
+Remember to use PNG frames.
